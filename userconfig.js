@@ -31,7 +31,6 @@ const default_config = {
         {
           name: "chat",
           links: [
-          
             {
               name: "ClickConnector",
               url: "https://hersecret.clickconnector.io/",
@@ -186,43 +185,6 @@ const default_config = {
               icon: "clipboard-check",
               icon_color: "#ed8796",
             },
-          ],
-        },
-        {
-          name: "video tools",
-          links: [
-
-            {
-              name: "jupitrr",
-              url: "https://jupitrr.com/create-slideshow",
-              icon: "news",
-              icon_color: "#f5a97f",
-            },
-            {
-              name: "konvey",
-              url: "https://dashboard.konvey.app/dashboard",
-              icon: "badge-filled",
-              icon_color: "#ed8796",
-            },
-            {
-              name: "onetake",
-              url: "https://app.onetake.ai/app/projects",
-              icon: "badge-filled",
-              icon_color: "#ed8796",
-            },
-            {
-              name: "odio.ai",
-              url: "https://odio.ai/tts/create",
-              icon: "news",
-              icon_color: "#f5a97f",
-            },
-            {
-              name: "lerno - calls",
-              url: "https://app.lerno.ai/",
-              icon: "news",
-              icon_color: "#f5a97f",
-            },
-            
           ],
         },
       ],
