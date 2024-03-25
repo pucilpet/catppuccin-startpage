@@ -31,7 +31,13 @@ const default_config = {
         {
           name: "chat",
           links: [
-            ClickConnector
+          
+            {
+              name: "ClickConnector",
+              url: "https://hersecret.clickconnector.io/",
+              icon: "droplet-bolt",
+              icon_color: "#a6da95",
+            },
             {
               name: "crisp",
               url: "https://app.crisp.chat",
